@@ -1,4 +1,4 @@
-### Hi there 👋 I'M YIGIT.
+### Hi there 👋 I'M YIGIT
 
 
 
