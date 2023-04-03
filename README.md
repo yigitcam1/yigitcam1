@@ -5,12 +5,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+#HELLO I'M YIGIT.
+
+
+- 🔭 I’m currently Computer Engineering student.
+- 🌱 I’m currently learning html, css, python.
+- 👀 I'm interested in Application development and machine learning.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: yiggit.cam@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yigitcam1)
+-->
 
